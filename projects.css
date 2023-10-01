@@ -100,7 +100,7 @@ ul li a:hover {
 
 .project {
   margin-top: 100px;
-
+min-height: 70vh;
 }
 
 .project .card-group {
@@ -109,13 +109,4 @@ ul li a:hover {
 
 .project .card-group .card {
   flex: 250px;
-}
-.projecr .card-imgs {
-  height: 100px;
-  width: 300px;
-}
-
-.project .card-imgs img {
-  max-width: 100%;
-  max-height: 100%;
 }

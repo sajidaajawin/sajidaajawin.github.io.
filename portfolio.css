@@ -248,7 +248,7 @@ ul li a {
   }
   .card-imgs {
     height: 200px;
-    width: 300px;
+    
   }
   
   .card-imgs img {
@@ -332,5 +332,12 @@ ul li a {
     text-align: center;
     margin: 15px;
     font-size: 30px;
+  }
+  .project .card-group {
+    gap: 10px;
+  }
+  .project .card-group .card {
+    border: #ADD8E6 solid 4px;
+    
   }
   
